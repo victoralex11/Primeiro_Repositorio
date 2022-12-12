@@ -1,2 +1,5 @@
 teste ateração de texto por branch
 isto esta escrito apenas no branch
+
+
+enviando a funcionalidade b 
