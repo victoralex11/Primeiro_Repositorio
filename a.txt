@@ -1,3 +1,2 @@
 teste ateração de texto por branch
-
-anteração apenas no branch
+isto esta escrito apenas no branch
